@@ -1,0 +1,23 @@
+h1 {
+    color:#bb3333;
+    padding: 21px;
+}
+.header{
+background-color:#00ffff;
+
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h3,h2{
+    text-align: center;
+}
+.body{
+    background-color:#666666;
+}
