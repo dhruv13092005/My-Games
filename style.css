@@ -13,7 +13,7 @@ background-color:#00ffff;
 }
 .footer{
     display:flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 p,h3,h2{
     text-align: center;
